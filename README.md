@@ -2,7 +2,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
+software engineering is developing software that are easy to use
 Explain what software engineering is and discuss its importance in the technology industry.
 
 
