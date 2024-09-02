@@ -34,3 +34,36 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+<!doctype html>
+<html>
+    <head> 
+        <meta charset="UTF-8"> 
+        <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1"> 
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+        <link rel="stylesheet" href="style.css">
+        <title>meeting ongoing</title>
+    </head> 
+    <body> 
+    
+    
+    
+   <h1 class="header">GDSC MNP</h1>
+    <p>welcome to meet amazing developers and get to learn</p>
+    <h2 id="home">register here</h2>
+    <form>
+    <label>firstname:</label>
+    <input type="text" placeholder="enter your name"><br>
+    <label>email:</label>
+    <input type="email" placeholder="enter email  "><br>
+    <label>password:</label>
+    <input type="password" id="pwd">
+    <input type="checkbox" id="chk">
+    <br>
+    <a href="https://xitdevs.co.za/">tap to visit link</a>
+    <img src="favicon.png">
+    <audio src="g.mp3" controls></audio>
+    <button>submit</button>
+    
+    </form>  
+    </body>
+</html>
